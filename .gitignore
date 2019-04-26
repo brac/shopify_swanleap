@@ -1,2 +1,6 @@
 node_modules
 .env
+.floo
+.flooignore 
+.idea/
+.next/
